@@ -17,7 +17,7 @@
 
 ## Transformamos Ideas en Realidad con Scrum 
 
-En nuestro equipo de desarrollo, el trabajo no es solo cumplir tareas, es una **experiencia colaborativa**, ágil y orientada a generar resultados que sean significativos para la implementación de *nuestras prácticas profesionales*.
+En nuestro equipo de desarrollo, el trabajo no es sólo cumplir tareas, es una **experiencia colaborativa**, ágil y orientada a generar resultados que sean significativos para la implementación de *nuestras prácticas profesionales*.
 
 ## ¿Qué logramos con Scrum?
 
