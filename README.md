@@ -1,13 +1,13 @@
 # Trabajo-Final-Scrum
 
-## Integrantes del Equipo de Trabajo:
+## *Integrantes del Equipo de Trabajo:*
 
-### Chavarría Claudia.
-### Gómez Mauro.
-### Ríos Raúl.
-### Salva Fernando.
+### - Chavarría Claudia.
+### - Gómez Mauro.
+### - Ríos Raúl.
+### - Salva Fernando.
 
-## Roles de trabajo Scrum:
+## *Roles de trabajo Scrum:*
 ### Product Owner
 ### Scrum Master
 ### Equipo de Sistema/Desarrollo
@@ -33,6 +33,7 @@ FIGMA [Figma](https://www.figma.com).
 
 ## Imágenes
 
-![Descripción de la imágen](https://via.placeholder.com/150x150)
+![socios](https://github.com/user-attachments/assets/8f97f82b-d251-4452-9a8d-5abaed008c38)
+
 
 ## Bloques de código
