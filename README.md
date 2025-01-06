@@ -3,8 +3,9 @@
 ## *Integrantes del Equipo de Trabajo:*
 
 ### - Chavarría Claudia.
+### - Fabian Maria Claudia.
+### - Gómez Ana.
 ### - Gómez Mauro.
-### - Ríos Raúl.
 ### - Salva Fernando.
 
 ## *Roles de trabajo Scrum:*
